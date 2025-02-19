@@ -1,4 +1,4 @@
-# 💻 My Skills
+# 💻 Tech
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,arch)](https://skillicons.dev)
 
 # 📊 GitHub Stats
