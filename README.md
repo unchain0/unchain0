@@ -17,7 +17,7 @@
 
 ## Profile
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,c,fastapi,django,selenium,linux,arch,docker,vscode,pycharm,neovim&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,c,fastapi,django,selenium,linux,arch,mint,vscode,pycharm,neovim&perline=3)](https://skillicons.dev)
 
 ### Github
 
