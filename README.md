@@ -23,7 +23,9 @@ Other statistics below ⤵️
 
 ### Github
 
-![Unchain0's Stats](./assets/stats.svg)
+![Unchain0's Stats](./profile/stats.svg)
+
+![Unchain0's Top Languages](./profile/top-langs.svg)
 
 ### Wakatime
 
