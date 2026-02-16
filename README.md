@@ -19,6 +19,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,go,c,fastapi,django,selenium,linux,arch,docker,vscode,pycharm,neovim&perline=3)](https://skillicons.dev)
 
+Other statistics below ⤵️
+
 ### Github
 
 ![Unchain0's Stats](./assets/stats.svg)
