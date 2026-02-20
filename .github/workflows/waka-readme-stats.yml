@@ -17,5 +17,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
           BADGE_STYLE: "plastic"
-          MAX_REPOS: 20
+          MAX_REPOS: 30
           IGNORED_REPOS: "ad1_cpw_2025_2, hr-pto-tracker, socialkit, github-readme-stats, v4, HyDE, data-science, Patch-Recovery, projeto01, projeto03, PHP-For-Beginners-Series, dio-lab-open-source, dsProject, nextjs"
