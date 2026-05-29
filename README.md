@@ -30,9 +30,50 @@ Other statistics below ⤵️
 ### Wakatime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-266%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.08%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                853 commits         █████████░░░░░░░░░░░░░░░░   34.53 % 
+🌆 Daytime                763 commits         ████████░░░░░░░░░░░░░░░░░   30.89 % 
+🌃 Evening                691 commits         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+🌙 Night                  163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Tuesday                  352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Wednesday                487 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Thursday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Friday                   454 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+Saturday                 380 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Sunday                   182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+Bash                     19 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Neovim                   19 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Unknown Project          19 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    19 mins             █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -51,5 +92,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 19:27:27 UTC
+ Last Updated on 29/05/2026 19:24:15 UTC
 <!--END_SECTION:waka-->
