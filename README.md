@@ -63,16 +63,19 @@ Sunday                   181 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    12 mins             █████████████████████░░░░   82.44 % 
+TOML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Opencode Cli             11 mins             ███████████████████░░░░░░   77.22 % 
+OpenCode                 3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Projects                 12 mins             █████████████████████░░░░   82.44 % 
+quilv                    2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 19:00:29 UTC
+ Last Updated on 21/06/2026 19:04:11 UTC
 <!--END_SECTION:waka-->
