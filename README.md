@@ -30,6 +30,8 @@ Other statistics below ⤵️
 ### Wakatime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2033%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.18%20million%20lines%20of%20code-blue?style=flat)
@@ -61,25 +63,25 @@ Sunday                   193 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Text                     2 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Markdown                 1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Python                   1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-TOML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Text                     1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Python                   1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+TOML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 🔥 Editors: 
-Opencode Cli             4 hrs 55 mins       ██████████████████░░░░░░░   72.38 % 
-OpenCode                 1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+Opencode Cli             4 hrs 53 mins       ███████████████████████░░   91.03 % 
+OpenCode                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 
 🐱‍💻 Projects: 
-flashcards-generator     4 hrs 45 mins       █████████████████░░░░░░░░   69.93 % 
-Projects                 1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-hourglass-rejections-rpa 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-notebooklm-py            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+flashcards-generator     4 hrs 30 mins       █████████████████████░░░░   83.65 % 
+Projects                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+hourglass-rejections-rpa 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+notebooklm-py            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-Linux                    6 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,5 +101,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:03:33 UTC
+ Last Updated on 25/07/2026 18:51:00 UTC
 <!--END_SECTION:waka-->
