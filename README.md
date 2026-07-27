@@ -30,7 +30,9 @@ Other statistics below ⤵️
 ### Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -84,6 +86,30 @@ notebooklm-py            0 secs              ░░░░░░░░░░░�
 Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 22 mins (100.0%)
+
+✍️ 1,898 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 20,794,871 Input Tokens, 442,781 Output Tokens
+
+💵 $81.55 Estimated AI Cost This Week
+
+🧠 93 AI Sessions, 215 AI Prompts
+
+GPT                      2,259 lines         █████████████████████████   99.96 % 
+K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,071 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -101,5 +127,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 18:51:29 UTC
+ Last Updated on 27/07/2026 19:02:02 UTC
 <!--END_SECTION:waka-->
