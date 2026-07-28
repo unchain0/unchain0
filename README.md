@@ -30,10 +30,6 @@ Other statistics below ⤵️
 ### Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%204%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2034%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.18%20million%20lines%20of%20code-blue?style=flat)
@@ -65,48 +61,48 @@ Sunday                   193 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Text                     1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Python                   1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-TOML                     52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+Text                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+TOML                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
 🔥 Editors: 
-Opencode Cli             4 hrs 53 mins       ███████████████████████░░   91.09 % 
-OpenCode                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Opencode Cli             4 hrs 1 min         ███████████████████████░░   91.23 % 
+OpenCode                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 
 🐱‍💻 Projects: 
-flashcards-generator     4 hrs 29 mins       █████████████████████░░░░   83.64 % 
-Projects                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-hourglass-rejections-rpa 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-notebooklm-py            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+flashcards-generator     4 hrs 16 mins       ████████████████████████░   96.74 % 
+hourglass-rejections-rpa 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+notebooklm-py            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+mypy-docs                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+mypy-repo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    5 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 25 mins (100.0%)
 
-✍️ 1,898 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,478 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,794,871 Input Tokens, 442,781 Output Tokens
+🔤 16,272,286 Input Tokens, 309,165 Output Tokens
 
-💵 $81.55 Estimated AI Cost This Week
+💵 $64.30 Estimated AI Cost This Week
 
-🧠 93 AI Sessions, 215 AI Prompts
+🧠 71 AI Sessions, 179 AI Prompts
 
-GPT                      2,259 lines         █████████████████████████   99.96 % 
-K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GPT                      1,900 lines         █████████████████████████   99.95 % 
+K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,071 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 843 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -127,5 +123,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 19:02:02 UTC
+ Last Updated on 28/07/2026 18:59:27 UTC
 <!--END_SECTION:waka-->
