@@ -32,6 +32,10 @@
 ### Wakatime
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.18%20million%20lines%20of%20code-blue?style=flat)
@@ -63,48 +67,48 @@ Sunday                   193 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Text                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-TOML                     51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Text                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+TOML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
 
 🔥 Editors: 
-Opencode Cli             4 hrs 1 min         ███████████████████████░░   91.23 % 
-OpenCode                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Opencode Cli             2 hrs 39 mins       ██████████████████████░░░   86.88 % 
+OpenCode                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 
 🐱‍💻 Projects: 
-flashcards-generator     4 hrs 16 mins       ████████████████████████░   96.74 % 
-hourglass-rejections-rpa 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-notebooklm-py            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-mypy-docs                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-mypy-repo                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+flashcards-generator     2 hrs 15 mins       ██████████████████░░░░░░░   73.35 % 
+Projects                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+hourglass-rejections-rpa 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+oh-my-zsh                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 4 mins (100.0%)
 
-✍️ 1,478 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,330 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,272,286 Input Tokens, 309,165 Output Tokens
+🔤 5,964,602 Input Tokens, 124,721 Output Tokens
 
-💵 $64.30 Estimated AI Cost This Week
+💵 $26.56 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 179 AI Prompts
+🧠 46 AI Sessions, 101 AI Prompts
 
-GPT                      1,900 lines         █████████████████████████   99.95 % 
-K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GPT                      1,712 lines         █████████████████████████   99.94 % 
+K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 843 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 828 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -125,5 +129,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 18:59:27 UTC
+ Last Updated on 29/07/2026 18:51:34 UTC
 <!--END_SECTION:waka-->
