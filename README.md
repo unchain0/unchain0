@@ -27,6 +27,8 @@
 
 ![Unchain0's Top Languages](./profile/top-langs.svg)
 
+---
+
 ### Wakatime
 
 <!--START_SECTION:waka-->
