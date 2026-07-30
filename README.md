@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,47 +67,42 @@ Sunday                   193 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Markdown                 40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
-Text                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-TOML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Other                    5 hrs 2 mins        ███████████████████░░░░░░   74.07 % 
+Python                   1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-Opencode Cli             2 hrs 39 mins       ██████████████████████░░░   86.88 % 
-OpenCode                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Opencode Cli             6 hrs 17 mins       ███████████████████████░░   92.42 % 
+OpenCode                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🐱‍💻 Projects: 
-flashcards-generator     2 hrs 15 mins       ██████████████████░░░░░░░   73.35 % 
-Projects                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-hourglass-rejections-rpa 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Projects                 5 hrs 19 mins       ████████████████████░░░░░   78.08 % 
+ua-pr                    1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+ua-pr136                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-oh-my-zsh                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 4 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 48 mins (100.0%)
 
-✍️ 1,330 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 969 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,964,602 Input Tokens, 124,721 Output Tokens
+🔤 6,532,710 Input Tokens, 126,850 Output Tokens
 
-💵 $26.56 Estimated AI Cost This Week
+💵 $32.17 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 101 AI Prompts
+🧠 90 AI Sessions, 207 AI Prompts
 
-GPT                      1,712 lines         █████████████████████████   99.94 % 
-K                        1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,120 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 828 characters per prompt
+📚 Verbose Prompter — average 1,667 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -129,5 +124,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 18:51:34 UTC
+ Last Updated on 30/07/2026 19:01:35 UTC
 <!--END_SECTION:waka-->
