@@ -32,32 +32,32 @@
 ### Wakatime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-291%20hrs%2050%20mins-blue?style=plastic)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2026%20mins-blue?style=plastic)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2022%20mins-blue?style=plastic)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2058%20mins-blue?style=plastic)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=plastic)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.24%20million%20lines%20of%20code-blue?style=plastic)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.83%20million%20lines%20of%20code-blue?style=plastic)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1161 commits        ███████░░░░░░░░░░░░░░░░░░   28.93 % 
-🌆 Daytime                1468 commits        █████████░░░░░░░░░░░░░░░░   36.58 % 
-🌃 Evening                1196 commits        ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌙 Night                  188 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+🌞 Morning                1375 commits        ████████░░░░░░░░░░░░░░░░░   30.61 % 
+🌆 Daytime                1612 commits        █████████░░░░░░░░░░░░░░░░   35.89 % 
+🌃 Evening                1313 commits        ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+🌙 Night                  192 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   722 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Tuesday                  658 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Wednesday                966 commits         ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Thursday                 324 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Friday                   507 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Saturday                 469 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Sunday                   367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Monday                   769 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Tuesday                  738 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Wednesday                1092 commits        ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Thursday                 433 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Friday                   556 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Saturday                 496 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Sunday                   408 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 ```
 
 
@@ -67,22 +67,51 @@ Sunday                   367 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 17 hrs 18 mins      ███████████████░░░░░░░░░░   61.59 % 
+Python                   6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+TypeScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Opencode Cli             12 mins             █████████████████████████   100.00 % 
+Opencode Cli             15 hrs 31 mins      ██████████████░░░░░░░░░░░   55.25 % 
+Codex Vscode             4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Codex CLI                4 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+OpenCode                 2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Upload-Assistant         14 hrs 42 mins      █████████████░░░░░░░░░░░░   52.32 % 
+orbix                    11 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   40.98 % 
+quilv                    1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+org                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+avell                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    28 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 28 hrs 6 mins (100.0%)
+
+✍️ 18,916 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 51,510,122 Input Tokens, 5,840,349 Output Tokens
+
+💵 $579.86 Estimated AI Cost This Week
+
+🧠 409 AI Sessions, 429 AI Prompts
+
+GPT                      19,334 lines        █████████████████████████   99.14 % 
+Codex-Cli                168 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,375 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -102,5 +131,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:45:42 UTC
+ Last Updated on 17/08/2026 18:47:47 UTC
 <!--END_SECTION:waka-->
