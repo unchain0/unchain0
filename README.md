@@ -38,26 +38,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=plastic)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.94%20million%20lines%20of%20code-blue?style=plastic)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.15%20million%20lines%20of%20code-blue?style=plastic)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2620 commits        ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-🌆 Daytime                3062 commits        █████████░░░░░░░░░░░░░░░░   34.03 % 
-🌃 Evening                2573 commits        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-🌙 Night                  742 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+🌞 Morning                2776 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+🌆 Daytime                3145 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+🌃 Evening                2708 commits        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+🌙 Night                  894 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1362 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Wednesday                1548 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Thursday                 961 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Friday                   1982 commits        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-Saturday                 1101 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Sunday                   779 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Monday                   1362 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Tuesday                  1287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Wednesday                1566 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Thursday                 1204 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Friday                   2223 commits        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
+Saturday                 1102 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   779 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 ```
 
 
@@ -67,49 +67,49 @@ Sunday                   779 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 4 hrs 18 mins       ███████████████████░░░░░░   75.95 % 
-PHP                      43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Docker                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Markdown                 3 hrs 33 mins       ██████████████████░░░░░░░   72.21 % 
+PHP                      43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 59 mins       █████████████░░░░░░░░░░░░   52.81 % 
-Codex Vscode             2 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.19 % 
+Neovim                   2 hrs 34 mins       █████████████░░░░░░░░░░░░   52.40 % 
+Codex Vscode             2 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.60 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-preciso-que-voc-conclua-a55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-orbix                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-sel                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-a                        22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Unknown Project          1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+preciso-que-voc-conclua-a55 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+orbix                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+sel                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+felippe-o-erro-413-indica21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 💻 Operating System: 
-Linux                    5 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (99.72%)
+⏱ AI Coding Time: 4 hrs 54 mins (99.61%)
 
-✍️ 1,620 lines written by AI, 182 lines written by hand (89.9% AI-written)
+✍️ 930 lines written by AI, 182 lines written by hand (83.63% AI-written)
 
-🔤 4,420,502 Input Tokens, 373,053 Output Tokens
+🔤 3,511,665 Input Tokens, 314,152 Output Tokens
 
-💵 $243.97 Estimated AI Cost This Week
+💵 $241.64 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 44 AI Prompts
+🧠 42 AI Sessions, 33 AI Prompts
 
-GPT                      1,501 lines         ████████████████████████░   97.98 % 
-Codex-Vscode             31 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+GPT                      811 lines           ████████████████████████░   96.32 % 
+Codex-Vscode             31 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.9% of written lines came from AI
-📄 Detailed Prompter — average 1,482 characters per prompt
+🤖 AI-Driven — 83.63% of written lines came from AI
+📚 Verbose Prompter — average 1,605 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 10.08% of changed lines were hand-edited
+🚀 High AI Trust — 16.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,5 +129,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 17/09/2026 21:39:53 UTC
+ Last Updated on 18/09/2026 21:10:18 UTC
 <!--END_SECTION:waka-->
