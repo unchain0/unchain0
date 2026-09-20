@@ -67,49 +67,25 @@ Sunday                   779 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 22 mins       ██████████████████░░░░░░░   71.17 % 
-PHP                      43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 0 secs              ████████████████████░░░░░   79.71 % 
+Lua                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 24 mins       █████████████░░░░░░░░░░░░   50.63 % 
-Codex Vscode             2 hrs 20 mins       ████████████░░░░░░░░░░░░░   49.37 % 
+Neovim                   1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-preciso-que-voc-conclua-a55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-orbix                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-sel                      33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-felippe-o-erro-413-indica21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+flashcards-generator     0 secs              ████████████████████░░░░░   79.71 % 
+Unknown Project          0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 
 💻 Operating System: 
-Linux                    4 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 43 mins (99.6%)
-
-✍️ 826 lines written by AI, 182 lines written by hand (81.94% AI-written)
-
-🔤 2,981,119 Input Tokens, 286,303 Output Tokens
-
-💵 $241.30 Estimated AI Cost This Week
-
-🧠 36 AI Sessions, 27 AI Prompts
-
-GPT                      707 lines           ████████████████████████░   95.80 % 
-Codex-Vscode             31 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 81.94% of written lines came from AI
-📚 Verbose Prompter — average 1,672 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 17.98% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,5 +105,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:57:59 UTC
+ Last Updated on 20/09/2026 21:02:48 UTC
 <!--END_SECTION:waka-->
