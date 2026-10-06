@@ -38,26 +38,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=plastic)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.39%20million%20lines%20of%20code-blue?style=plastic)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.97%20million%20lines%20of%20code-blue?style=plastic)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3355 commits        ████████░░░░░░░░░░░░░░░░░   30.18 % 
-🌆 Daytime                3635 commits        ████████░░░░░░░░░░░░░░░░░   32.69 % 
-🌃 Evening                3082 commits        ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-🌙 Night                  1046 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+🌞 Morning                3573 commits        ████████░░░░░░░░░░░░░░░░░   30.79 % 
+🌆 Daytime                3779 commits        ████████░░░░░░░░░░░░░░░░░   32.56 % 
+🌃 Evening                3204 commits        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+🌙 Night                  1050 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1607 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Tuesday                  1473 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Wednesday                1778 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Thursday                 1320 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Friday                   2532 commits        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-Saturday                 1262 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Sunday                   1146 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Monday                   1658 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Tuesday                  1553 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Wednesday                1907 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Thursday                 1429 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Friday                   2582 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Saturday                 1290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Sunday                   1187 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 
 
@@ -67,48 +67,48 @@ Sunday                   1146 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Rust                     2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-TOML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Rust                     2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Python                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Markdown                 1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+TOML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Other                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 14 mins       █████████████████████░░░░   84.47 % 
-Neovim                   1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Codex Vscode             8 hrs 5 mins        ██████████████████████░░░   88.15 % 
+Neovim                   1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🐱‍💻 Projects: 
-flashcards-generator     4 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
-avell                    2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-eclipse-news             2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-designa-eventos          36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+flashcards-generator     2 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+avell                    2 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+eclipse-news             2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+designa-eventos          36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Unknown Project          31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-Linux                    10 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 56 mins (99.99%)
+⏱ AI Coding Time: 9 hrs 10 mins (99.98%)
 
-✍️ 4,495 lines written by AI, 16 lines written by hand (99.65% AI-written)
+✍️ 3,841 lines written by AI, 16 lines written by hand (99.59% AI-written)
 
-🔤 114,461,304 Input Tokens, 1,011,688 Output Tokens
+🔤 47,239,235 Input Tokens, 886,804 Output Tokens
 
-💵 $1123.29 Estimated AI Cost This Week
+💵 $537.69 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 61 AI Prompts
+🧠 32 AI Sessions, 49 AI Prompts
 
-GPT                      4,379 lines         ██████████████████████░░░   89.31 % 
-Codex-Vscode             524 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+GPT                      3,895 lines         ████████████████████████░   97.64 % 
+Codex-Vscode             94 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📚 Verbose Prompter — average 2,370 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.33% of changed lines were hand-edited
+🤖 AI-Driven — 99.59% of written lines came from AI
+📚 Verbose Prompter — average 2,479 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -128,5 +128,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:19:23 UTC
+ Last Updated on 06/10/2026 22:48:20 UTC
 <!--END_SECTION:waka-->
