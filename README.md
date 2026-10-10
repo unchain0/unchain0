@@ -38,26 +38,26 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=plastic)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.33%20million%20lines%20of%20code-blue?style=plastic)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.92%20million%20lines%20of%20code-blue?style=plastic)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3720 commits        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-🌆 Daytime                4133 commits        ████████░░░░░░░░░░░░░░░░░   33.20 % 
-🌃 Evening                3373 commits        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-🌙 Night                  1222 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+🌞 Morning                3934 commits        ████████░░░░░░░░░░░░░░░░░   30.43 % 
+🌆 Daytime                4277 commits        ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌃 Evening                3490 commits        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+🌙 Night                  1226 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1869 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Tuesday                  1727 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Wednesday                1929 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Thursday                 1434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Friday                   2802 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Saturday                 1302 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Sunday                   1385 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Monday                   1916 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Tuesday                  1807 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Wednesday                2055 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Thursday                 1543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   2851 commits        ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Saturday                 1329 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Sunday                   1426 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 ```
 
 
@@ -67,48 +67,22 @@ Sunday                   1385 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Rust                     2 hrs 27 mins       ██████████████░░░░░░░░░░░   55.87 % 
-Markdown                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             3 hrs 58 mins       ███████████████████████░░   90.44 % 
-Neovim                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Codex Vscode             0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eclipse-news             1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.71 % 
-flashcards-generator     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-designa-eventos          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-tcc                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-avell                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 24 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 24 mins (99.97%)
-
-✍️ 2,787 lines written by AI, 16 lines written by hand (99.43% AI-written)
-
-🔤 3,676,189 Input Tokens, 600,631 Output Tokens
-
-💵 $81.83 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 8 AI Prompts
-
-GPT                      2,903 lines         █████████████████████████   99.01 % 
-Codex-Vscode             29 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.43% of written lines came from AI
-📚 Verbose Prompter — average 3,344 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -128,5 +102,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/unchain0/unchain0/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:53:27 UTC
+ Last Updated on 10/10/2026 22:00:51 UTC
 <!--END_SECTION:waka-->
