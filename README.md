@@ -21,7 +21,7 @@ Daily driver is Linux (Arch / Omarchy, Hyprland). I self-host with Coolify and D
 
 ## Profile
 
-[![My Skills](https://skillicons.dev/icons?i=rust,go,ts,py,nextjs,fastapi,django,docker,linux,arch,neovim,githubactions,vercel,cloudflare,postgres,selenium&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,ts,py,nextjs,fastapi,django,docker,linux,arch,neovim,githubactions,vercel,cloudflare,postgres&perline=3)](https://skillicons.dev)
 
 ---
 
