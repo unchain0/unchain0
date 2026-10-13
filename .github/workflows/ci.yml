@@ -1,0 +1,12 @@
+name: ci
+on:
+  push: { branches: [main] }
+  pull_request: {}
+permissions: { contents: read }
+concurrency: { group: ${{ github.workflow }}-${{ github.ref }}, cancel-in-progress: true }
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - run: bash -c 'test -f README.md && test -s README.md && test -f profile/stats.svg && grep -qF "cancel-in-progress" .github/workflows/ci.yml && ! grep -qF "echo \"lint pass\"" .github/workflows/ci.yml'
